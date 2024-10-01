@@ -1,0 +1,13 @@
+# DOTNET Core
+*.obj
+*.exe
+*.dll
+*.pdb
+
+# Visual Studio 2015/2017
+.vs/
+
+# Directory
+bin/
+obj/
+build/
